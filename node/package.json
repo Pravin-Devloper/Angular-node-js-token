@@ -1,0 +1,26 @@
+{
+  "name": "familytree_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "F_index.js",
+  "scripts": {
+    "test": "node F_index.js"
+  },
+  "author": "K.Pravin Raj",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^3.2.1",
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "multer": "^1.4.2",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.4.18",
+    "nodemon": "^2.0.14",
+    "otp-generator": "^2.0.0",
+    "path": "^0.12.7",
+    "router": "^1.3.5"
+  }
+}
